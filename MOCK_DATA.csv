@@ -1,0 +1,1001 @@
+id,family,car,date,count
+1,Chevrolet,Prizm,4/9/2017,70
+2,Honda,S2000,11/10/2016,83
+3,Ford,Expedition,4/4/2017,10
+4,Saab,9-5,5/5/2014,47
+5,Chrysler,New Yorker,8/17/2010,
+6,Ford,Ranger,5/19/2014,79
+7,Acura,NSX,4/16/2018,81
+8,Jaguar,XJ,11/27/2018,22
+9,Cadillac,Seville,12/17/2010,63
+10,Toyota,RAV4,11/16/2017,37
+11,Mercedes-Benz,SLK-Class,6/1/2012,23
+12,Toyota,Tercel,12/13/2018,48
+13,GMC,3500,7/12/2018,95
+14,Chevrolet,Suburban 2500,11/6/2014,35
+15,Ford,Excursion,1/22/2011,10
+16,Lotus,Esprit Turbo,1/4/2017,91
+17,Chevrolet,Silverado 2500,4/3/2019,11
+18,Volkswagen,Jetta,12/21/2017,97
+19,Nissan,Maxima,3/16/2010,73
+20,GMC,Yukon Denali,8/31/2011,
+21,MINI,Countryman,8/23/2015,
+22,Eagle,Summit,7/14/2017,79
+23,Mercedes-Benz,190E,11/5/2012,97
+24,Jeep,Wrangler,9/10/2013,62
+25,Subaru,Legacy,4/27/2019,95
+26,Maybach,Landaulet,9/5/2014,43
+27,Dodge,Intrepid,9/13/2017,
+28,Saturn,S-Series,11/24/2016,72
+29,Subaru,Alcyone SVX,5/4/2012,58
+30,Mercedes-Benz,S-Class,3/31/2011,95
+31,Nissan,GT-R,12/28/2011,20
+32,Ford,F350,1/26/2017,77
+33,Mitsubishi,Montero,2/16/2013,43
+34,Ford,Five Hundred,5/28/2010,81
+35,Porsche,911,2/13/2010,93
+36,Mitsubishi,Chariot,9/24/2017,26
+37,Subaru,Forester,11/27/2017,53
+38,BMW,X3,11/27/2012,
+39,Mercedes-Benz,W126,3/23/2018,85
+40,Pontiac,Safari,11/1/2016,94
+41,Ferrari,612 Scaglietti,8/3/2010,84
+42,Ford,E-Series,7/18/2019,60
+43,BMW,X6,10/24/2014,57
+44,Chevrolet,Tahoe,9/21/2018,
+45,Volvo,S80,11/11/2014,48
+46,Nissan,Altima,8/13/2010,15
+47,Pontiac,Grand Am,12/14/2019,59
+48,MINI,Clubman,2/23/2015,34
+49,Honda,S2000,8/11/2017,14
+50,BMW,3 Series,7/14/2015,42
+51,Infiniti,J,9/19/2019,37
+52,Lexus,LX,1/21/2013,29
+53,Chevrolet,Aveo,12/10/2015,85
+54,Mazda,Miata MX-5,10/5/2017,57
+55,Dodge,Ram 3500,5/1/2019,67
+56,Dodge,Viper,4/14/2015,71
+57,Dodge,Challenger,12/9/2015,52
+58,Mercedes-Benz,E-Class,3/9/2011,21
+59,Plymouth,Voyager,1/10/2012,20
+60,Honda,Pilot,1/14/2011,49
+61,Dodge,Viper,2/11/2011,
+62,Chevrolet,Cobalt SS,8/11/2017,86
+63,Plymouth,Grand Voyager,8/13/2012,35
+64,Ford,Expedition,3/2/2016,
+65,Mercury,Mountaineer,2/3/2017,
+66,Chevrolet,Corvette,11/29/2017,85
+67,Holden,VS Commodore,9/25/2018,29
+68,Mazda,B-Series Plus,3/16/2013,32
+69,Pontiac,Firebird,5/10/2012,43
+70,Audi,4000CS Quattro,11/11/2015,68
+71,Audi,A6,2/25/2014,53
+72,Subaru,Forester,7/5/2015,83
+73,Mitsubishi,Tredia,3/11/2010,45
+74,Dodge,Neon,8/26/2019,51
+75,Chevrolet,Cobalt,8/28/2018,27
+76,Dodge,Ram Van 3500,12/15/2013,
+77,Mitsubishi,Eclipse,5/6/2019,29
+78,Lotus,Esprit,9/6/2015,20
+79,Mercury,Grand Marquis,1/3/2016,45
+80,Honda,Odyssey,10/4/2013,58
+81,Acura,TL,11/16/2014,83
+82,GMC,3500,11/23/2015,51
+83,Plymouth,Grand Voyager,8/5/2010,17
+84,GMC,Savana 1500,10/12/2011,28
+85,Chevrolet,Silverado 3500,1/4/2017,44
+86,Volkswagen,Eos,1/19/2018,35
+87,Toyota,Previa,3/20/2019,67
+88,Chevrolet,Blazer,3/30/2019,78
+89,Lincoln,Continental Mark VII,2/16/2011,16
+90,Chevrolet,1500,6/2/2014,
+91,GMC,2500,4/6/2018,21
+92,Lincoln,Blackwood,8/5/2010,100
+93,Toyota,Avalon,8/11/2011,29
+94,Eagle,Vision,8/30/2015,10
+95,Infiniti,I,1/13/2015,
+96,Cadillac,CTS,2/5/2019,
+97,Infiniti,Q,10/17/2018,63
+98,Ford,F-Series,7/17/2011,
+99,Suzuki,Aerio,10/1/2011,
+100,Lexus,IS,8/21/2014,23
+101,Dodge,Dakota Club,10/22/2012,66
+102,Ford,GT500,1/31/2016,51
+103,Buick,Estate,3/8/2013,89
+104,Pontiac,Firebird,9/15/2012,38
+105,Mazda,626,2/15/2012,73
+106,BMW,M5,9/1/2013,96
+107,Audi,Cabriolet,3/28/2011,20
+108,Mercedes-Benz,CL-Class,10/10/2014,24
+109,Chevrolet,Tahoe,6/10/2015,21
+110,Kia,Rio,6/28/2014,
+111,BMW,M5,11/4/2014,
+112,Ford,Thunderbird,8/7/2016,46
+113,Volkswagen,Beetle,1/22/2011,17
+114,Chevrolet,2500,7/24/2019,32
+115,Acura,Legend,4/12/2016,
+116,Chevrolet,Camaro,5/30/2016,32
+117,Volvo,C30,7/16/2017,80
+118,Mazda,MX-3,12/7/2014,51
+119,Toyota,Tacoma Xtra,11/29/2013,86
+120,Toyota,TundraMax,11/2/2012,81
+121,Toyota,TundraMax,11/25/2018,77
+122,Chevrolet,Avalanche 2500,3/16/2010,21
+123,Honda,Civic Si,5/14/2014,50
+124,Ford,F350,12/20/2019,67
+125,Ford,Explorer,12/10/2015,45
+126,Nissan,Armada,7/24/2015,95
+127,Suzuki,Aerio,6/7/2017,32
+128,Toyota,Camry,2/14/2014,74
+129,Dodge,Sprinter,3/20/2019,41
+130,Mazda,MX-5,7/25/2013,48
+131,Nissan,Murano,8/13/2019,15
+132,Rolls-Royce,Phantom,4/19/2017,64
+133,Nissan,Maxima,3/1/2013,78
+134,Chevrolet,Suburban 2500,7/17/2019,77
+135,Lexus,IS,2/20/2011,94
+136,Mazda,Protege,11/18/2013,94
+137,Holden,VS Commodore,3/24/2011,66
+138,Subaru,Legacy,4/16/2013,81
+139,Mazda,Miata MX-5,3/20/2018,63
+140,Mercury,Milan,8/12/2016,17
+141,GMC,Suburban 1500,2/19/2013,90
+142,Audi,A6,2/16/2015,34
+143,Mercedes-Benz,G55 AMG,11/25/2019,18
+144,Ford,Aerostar,7/27/2018,84
+145,Plymouth,Acclaim,5/18/2010,93
+146,BMW,5 Series,2/13/2010,69
+147,Saab,9-5,9/10/2012,88
+148,Alfa Romeo,164,9/1/2014,81
+149,Toyota,Celica,2/28/2012,95
+150,Plymouth,Colt,11/7/2019,45
+151,BMW,3 Series,6/19/2016,32
+152,Volkswagen,Passat,9/2/2014,53
+153,Ford,F450,3/7/2014,
+154,Chevrolet,Corvette,3/2/2014,23
+155,Mazda,Familia,8/29/2010,
+156,Cadillac,XLR,2/1/2014,35
+157,Toyota,4Runner,10/9/2011,
+158,Hyundai,Equus,7/9/2016,44
+159,Hyundai,Accent,12/20/2010,78
+160,Land Rover,Range Rover,12/3/2014,20
+161,Mitsubishi,Lancer,11/17/2011,63
+162,Mercedes-Benz,300SD,3/3/2018,76
+163,Mercedes-Benz,CLK-Class,6/21/2013,74
+164,Toyota,Tacoma,8/12/2010,
+165,Ford,Thunderbird,4/15/2010,53
+166,Mercury,Tracer,12/18/2019,17
+167,Chevrolet,TrailBlazer,5/23/2013,52
+168,Dodge,Ram 2500,10/16/2015,64
+169,Saab,9000,5/12/2018,69
+170,Daewoo,Nubira,4/13/2014,19
+171,Audi,A5,3/14/2013,72
+172,Lexus,RX Hybrid,9/3/2016,88
+173,Chevrolet,Impala,8/7/2013,
+174,Isuzu,Ascender,3/21/2014,28
+175,Pontiac,Grand Prix,12/19/2010,43
+176,Acura,MDX,11/11/2011,56
+177,Mercury,Monterey,7/4/2010,47
+178,Chevrolet,2500,6/11/2017,39
+179,Suzuki,Sidekick,2/21/2017,90
+180,GMC,Rally Wagon 1500,12/18/2018,14
+181,Kia,Spectra5,9/23/2010,24
+182,Mercedes-Benz,SLR McLaren,12/28/2018,97
+183,BMW,Z3,7/25/2010,96
+184,Chrysler,Sebring,1/31/2013,45
+185,Subaru,Justy,6/21/2012,15
+186,Audi,S4,4/27/2012,
+187,Audi,V8,1/8/2010,81
+188,Ford,Focus,8/19/2019,46
+189,Honda,Ridgeline,3/2/2011,87
+190,Chevrolet,Silverado 3500,2/3/2012,
+191,Mercury,Topaz,8/27/2011,52
+192,GMC,Savana 1500,2/26/2013,83
+193,Volkswagen,Touareg,3/29/2012,51
+194,Saab,9-3,5/28/2018,26
+195,Toyota,4Runner,11/13/2013,66
+196,Nissan,Xterra,1/9/2017,
+197,Chevrolet,Express 2500,7/14/2017,30
+198,Mitsubishi,Montero Sport,3/13/2011,43
+199,Chevrolet,2500,4/14/2010,74
+200,Toyota,Tacoma Xtra,10/30/2019,36
+201,Mazda,CX-7,11/12/2013,38
+202,Mercedes-Benz,600SEL,7/5/2016,
+203,Lexus,RX Hybrid,5/28/2019,58
+204,Oldsmobile,Silhouette,5/18/2015,13
+205,Chrysler,Crossfire,5/7/2010,90
+206,Toyota,Tacoma,6/28/2017,
+207,GMC,3500,1/12/2016,41
+208,Nissan,Altima,6/24/2016,48
+209,Dodge,Durango,6/28/2016,58
+210,Mercedes-Benz,SLK-Class,2/15/2019,58
+211,BMW,3 Series,3/26/2014,15
+212,Ford,Laser,1/5/2010,
+213,Lotus,Esprit,4/27/2018,20
+214,Cadillac,Escalade,4/11/2017,
+215,Mazda,Mazda3,3/11/2011,67
+216,Toyota,RAV4,3/10/2014,97
+217,Volkswagen,Jetta,11/12/2015,55
+218,Mazda,B2600,1/2/2015,73
+219,Ford,Fusion,10/15/2012,89
+220,GMC,Savana 3500,2/11/2015,75
+221,Oldsmobile,Aurora,12/21/2017,
+222,Morgan,Aero 8,10/30/2011,35
+223,Mercury,Cougar,4/14/2016,99
+224,Lamborghini,Diablo,1/16/2019,79
+225,GMC,3500,2/27/2010,69
+226,Plymouth,Neon,7/6/2010,51
+227,Volvo,C70,3/1/2014,
+228,Pontiac,Grand Prix,3/26/2017,91
+229,Lexus,GX,7/30/2016,
+230,Acura,SLX,5/27/2012,67
+231,Lamborghini,Gallardo,7/17/2011,22
+232,Hyundai,Tucson,10/12/2018,36
+233,Jaguar,X-Type,3/15/2017,97
+234,Hyundai,Accent,9/28/2019,76
+235,Lotus,Elise,8/20/2015,15
+236,Volkswagen,Touareg,2/29/2016,70
+237,Mercedes-Benz,SLR McLaren,5/22/2015,91
+238,BMW,7 Series,6/4/2010,59
+239,Toyota,Tercel,9/30/2013,66
+240,Aston Martin,Rapide,5/8/2015,49
+241,Lamborghini,Countach,7/30/2011,57
+242,Jeep,Grand Cherokee,10/2/2012,93
+243,Nissan,Versa,11/9/2012,90
+244,Mitsubishi,i-MiEV,9/26/2010,84
+245,Oldsmobile,98,3/18/2017,87
+246,Bentley,Continental GTC,1/17/2017,50
+247,Chrysler,300,12/1/2018,55
+248,Mitsubishi,Outlander,8/23/2019,100
+249,Toyota,Camry Hybrid,3/21/2016,79
+250,Suzuki,XL-7,10/1/2013,
+251,Volkswagen,Jetta,2/6/2010,13
+252,Mitsubishi,Pajero,3/22/2010,76
+253,Isuzu,Axiom,12/13/2011,
+254,Bentley,Arnage,9/19/2015,22
+255,Dodge,Durango,11/21/2013,88
+256,Toyota,Previa,3/14/2011,47
+257,Mercedes-Benz,SL-Class,11/2/2015,72
+258,Chevrolet,Camaro,9/21/2019,
+259,Mercury,Capri,7/18/2014,43
+260,Hyundai,Tiburon,7/17/2012,41
+261,Ford,F-Series,7/11/2010,99
+262,Lexus,GX,7/3/2016,81
+263,Acura,CL,5/25/2018,57
+264,Ford,E-Series,9/1/2015,36
+265,GMC,Yukon,2/27/2011,96
+266,Ford,F-Series,10/16/2014,37
+267,Jaguar,XK Series,7/18/2015,78
+268,Mazda,RX-8,8/31/2018,51
+269,Buick,Century,5/8/2011,76
+270,Chevrolet,Corsica,9/3/2012,98
+271,Dodge,Dakota Club,8/18/2012,66
+272,Volkswagen,Scirocco,12/24/2010,51
+273,Mazda,Miata MX-5,10/7/2018,12
+274,Subaru,XT,3/25/2017,
+275,Lexus,IS F,7/24/2017,73
+276,Toyota,Celica,2/27/2013,96
+277,GMC,Yukon XL 1500,11/5/2017,20
+278,Lincoln,Navigator,7/20/2010,93
+279,Toyota,FJ Cruiser,11/30/2010,58
+280,Ford,Fairlane,10/22/2014,16
+281,Fillmore,Fillmore,1/21/2010,45
+282,Volvo,850,8/18/2015,33
+283,GMC,Sierra 3500,4/30/2012,70
+284,Mercedes-Benz,300SD,2/1/2017,66
+285,Oldsmobile,Silhouette,2/17/2012,29
+286,Porsche,Boxster,1/9/2012,82
+287,Mazda,MPV,3/5/2015,44
+288,Plymouth,Breeze,4/20/2017,68
+289,Ford,F250,2/21/2017,98
+290,Chevrolet,Blazer,5/26/2014,19
+291,BMW,5 Series,5/29/2018,54
+292,Ford,Econoline E250,1/26/2017,81
+293,Pontiac,Firebird,7/31/2015,61
+294,Volkswagen,Jetta III,2/20/2018,90
+295,Plymouth,Breeze,4/19/2019,28
+296,Volkswagen,Passat,6/21/2015,61
+297,Oldsmobile,Achieva,10/13/2010,23
+298,Chevrolet,Silverado 3500,5/18/2013,
+299,Hyundai,Tiburon,1/6/2013,
+300,Cadillac,Seville,3/21/2017,64
+301,Ford,F450,8/10/2018,23
+302,Saturn,Astra,8/26/2016,95
+303,Pontiac,Trans Sport,3/17/2015,49
+304,Ford,F-Series,5/5/2017,15
+305,Lamborghini,Diablo,11/12/2018,93
+306,Cadillac,Seville,12/4/2016,84
+307,Chrysler,Cirrus,8/13/2013,84
+308,GMC,Sierra 3500,8/8/2013,70
+309,Subaru,Impreza,1/13/2010,99
+310,Hyundai,Tucson,10/15/2018,93
+311,GMC,Suburban 2500,11/10/2010,90
+312,Honda,S2000,11/9/2010,36
+313,Volvo,XC90,11/17/2012,
+314,Cadillac,DTS,11/20/2015,52
+315,Honda,Civic,9/15/2012,87
+316,Mercury,Grand Marquis,12/12/2018,79
+317,Hyundai,Elantra,8/19/2016,76
+318,Mitsubishi,3000GT,9/11/2013,88
+319,Toyota,Paseo,4/16/2018,90
+320,Porsche,Boxster,1/23/2018,31
+321,Kia,Sportage,4/11/2015,63
+322,Ford,Tempo,1/26/2011,10
+323,Mercedes-Benz,SLK55 AMG,4/11/2016,20
+324,Toyota,Prius,10/9/2014,82
+325,Chevrolet,Express 3500,9/13/2016,53
+326,Lincoln,Navigator,12/16/2015,57
+327,Lotus,Esprit,8/16/2014,11
+328,Dodge,Dakota,11/22/2018,45
+329,Infiniti,G,11/20/2011,53
+330,Porsche,Boxster,9/29/2012,
+331,Nissan,Pathfinder,1/8/2012,
+332,Acura,SLX,4/3/2017,
+333,BMW,745,6/4/2015,99
+334,Ford,Festiva,7/3/2017,81
+335,Mercury,Lynx,5/23/2016,65
+336,Audi,A3,6/3/2013,61
+337,Lotus,Exige,3/28/2015,87
+338,Dodge,Ram 2500,3/24/2019,74
+339,Toyota,Tacoma,2/11/2017,85
+340,Mitsubishi,Eclipse,2/19/2013,20
+341,Suzuki,SJ,11/28/2015,61
+342,Saturn,Ion,2/22/2010,59
+343,Chevrolet,G-Series G30,4/13/2016,82
+344,Dodge,Ram 1500 Club,6/23/2013,35
+345,Ford,Torino,6/22/2016,86
+346,Mitsubishi,Montero Sport,11/30/2012,
+347,Chrysler,New Yorker,7/25/2018,89
+348,Mitsubishi,Diamante,1/4/2011,17
+349,Toyota,Paseo,4/28/2012,35
+350,Mercury,Cougar,4/13/2010,18
+351,GMC,Safari,1/15/2017,93
+352,Volkswagen,Eurovan,10/5/2013,
+353,Scion,xD,11/13/2011,21
+354,Saab,9-5,3/8/2017,17
+355,Chevrolet,Express 1500,8/7/2014,
+356,Chevrolet,Camaro,3/20/2015,
+357,Saab,900,8/26/2012,33
+358,Nissan,Sentra,8/13/2017,79
+359,Audi,A6,5/20/2012,89
+360,Audi,Q7,1/22/2014,71
+361,Isuzu,VehiCROSS,5/2/2010,
+362,Porsche,Boxster,6/12/2011,51
+363,Mitsubishi,Montero,3/5/2013,48
+364,Dodge,Colt,5/9/2012,16
+365,Dodge,Viper,1/8/2019,49
+366,Buick,LeSabre,1/19/2015,25
+367,Mitsubishi,Expo LRV,3/23/2012,57
+368,Suzuki,Equator,9/29/2019,82
+369,Hyundai,Tucson,10/3/2017,77
+370,GMC,Envoy,9/28/2014,32
+371,Jaguar,XJ Series,7/14/2015,44
+372,Jaguar,X-Type,7/8/2012,
+373,Buick,Coachbuilder,4/30/2013,
+374,Mercedes-Benz,SLK-Class,5/14/2012,26
+375,Lincoln,Town Car,3/27/2016,90
+376,BMW,X5,4/12/2019,88
+377,BMW,Alpina B7,1/20/2015,27
+378,Toyota,Camry,8/5/2010,93
+379,Mercedes-Benz,C-Class,10/12/2019,30
+380,Ford,Thunderbird,8/9/2012,86
+381,Oldsmobile,Silhouette,8/30/2016,54
+382,Geo,Tracker,11/27/2018,37
+383,Honda,S2000,7/30/2010,10
+384,Rolls-Royce,Phantom,7/7/2010,30
+385,Nissan,Frontier,1/18/2015,52
+386,Lincoln,Continental,12/27/2018,
+387,Chevrolet,Tahoe,10/26/2012,24
+388,Ford,Econoline E150,6/2/2019,77
+389,Maserati,228,11/28/2019,
+390,Chevrolet,Silverado 3500,8/17/2014,100
+391,Mercury,Mariner,11/1/2012,51
+392,Buick,Century,8/7/2012,
+393,Chevrolet,Suburban 1500,4/28/2016,20
+394,BMW,M5,6/28/2016,81
+395,Mercedes-Benz,M-Class,2/25/2015,83
+396,Jeep,Grand Cherokee,2/18/2011,51
+397,Lincoln,Town Car,10/17/2017,92
+398,Mitsubishi,Truck,6/17/2015,59
+399,Mitsubishi,Mighty Max Macro,5/30/2017,13
+400,BMW,5 Series,4/2/2019,37
+401,Dodge,Intrepid,2/12/2010,33
+402,Plymouth,Voyager,2/8/2019,92
+403,Isuzu,Ascender,2/1/2017,17
+404,Dodge,Dakota,12/23/2017,
+405,Mercedes-Benz,W201,3/25/2017,52
+406,Volkswagen,Passat,12/25/2018,49
+407,Aptera,Typ-1,9/12/2014,10
+408,Chevrolet,Corvette,2/11/2011,58
+409,Lincoln,MKT,9/5/2018,93
+410,Dodge,Neon,8/8/2010,36
+411,Chevrolet,S10 Blazer,11/27/2015,72
+412,GMC,Yukon Denali,9/15/2012,34
+413,Fiat,Nuova 500,3/23/2016,11
+414,Chevrolet,HHR,2/13/2013,
+415,Subaru,Outback,7/6/2012,54
+416,Honda,Accord,2/12/2012,33
+417,Suzuki,Swift,3/19/2017,29
+418,Cadillac,DeVille,5/28/2011,68
+419,Dodge,Stratus,9/9/2013,16
+420,Dodge,Aries,6/23/2010,77
+421,Ford,F250,7/18/2011,24
+422,Ford,Focus,11/2/2011,
+423,Ford,Crown Victoria,8/5/2015,79
+424,Chevrolet,Tracker,1/3/2017,31
+425,Lamborghini,Countach,3/4/2015,69
+426,Nissan,Pathfinder,11/12/2017,39
+427,BMW,M5,7/8/2016,67
+428,Dodge,D350 Club,2/9/2014,
+429,Toyota,Echo,12/18/2014,25
+430,Buick,Coachbuilder,2/11/2017,
+431,Pontiac,Grand Prix,2/27/2016,41
+432,Lincoln,Town Car,4/1/2012,21
+433,Dodge,Stratus,11/6/2019,94
+434,Audi,80,2/16/2015,46
+435,Infiniti,FX,1/21/2015,24
+436,Geo,Tracker,9/11/2016,80
+437,Volkswagen,Golf,8/18/2012,44
+438,Mercedes-Benz,E-Class,6/20/2018,97
+439,Chevrolet,Colorado,3/14/2011,90
+440,Lexus,SC,12/16/2015,67
+441,Pontiac,Grand Prix,8/1/2011,64
+442,Isuzu,Amigo,9/2/2014,27
+443,Mercedes-Benz,G-Class,12/9/2016,67
+444,Ford,E250,9/19/2010,82
+445,Mitsubishi,Lancer Evolution,1/14/2011,81
+446,Dodge,Grand Caravan,7/26/2016,29
+447,Jeep,Cherokee,9/21/2016,51
+448,Nissan,Maxima,5/5/2010,58
+449,GMC,Savana 2500,2/22/2011,31
+450,Chevrolet,Camaro,8/25/2014,98
+451,Hyundai,Tiburon,6/5/2017,24
+452,Oldsmobile,LSS,11/11/2010,11
+453,Chrysler,Town & Country,3/4/2011,11
+454,Oldsmobile,LSS,4/1/2015,40
+455,Mazda,RX-8,9/28/2015,32
+456,BMW,M3,1/5/2012,
+457,Audi,S4,7/28/2014,24
+458,Chevrolet,S10 Blazer,7/17/2012,23
+459,Chevrolet,HHR,7/24/2015,93
+460,Volkswagen,Golf,2/16/2011,
+461,Nissan,Xterra,3/13/2011,69
+462,Plymouth,Voyager,5/14/2016,37
+463,Buick,Riviera,11/14/2014,
+464,Jaguar,XJ Series,8/12/2014,53
+465,Lexus,IS,11/29/2014,97
+466,Mitsubishi,Pajero,1/11/2019,45
+467,Audi,A3,6/26/2017,31
+468,Lincoln,Navigator,5/2/2016,26
+469,Mercedes-Benz,SL-Class,7/13/2014,52
+470,Mercury,Mystique,2/12/2012,12
+471,GMC,Suburban 2500,1/8/2013,75
+472,Chrysler,New Yorker,4/29/2012,
+473,Dodge,Ram 1500,2/18/2010,31
+474,Chevrolet,Express 2500,5/6/2018,57
+475,Chevrolet,Suburban 1500,5/24/2017,32
+476,Cadillac,XLR-V,8/12/2010,71
+477,Jeep,Grand Cherokee,11/16/2018,98
+478,Subaru,Impreza,7/17/2011,54
+479,Chevrolet,Express 3500,10/29/2015,19
+480,Mitsubishi,Galant,6/16/2013,24
+481,Lincoln,Town Car,7/3/2011,14
+482,Pontiac,Trans Sport,10/15/2010,49
+483,Saturn,Aura,8/1/2019,78
+484,Chevrolet,Corvair 500,12/5/2011,81
+485,Jaguar,XJ Series,3/19/2015,18
+486,Lexus,RX Hybrid,6/3/2012,47
+487,Dodge,Avenger,9/22/2019,74
+488,Chevrolet,Silverado 2500,9/21/2015,78
+489,Buick,Lucerne,7/4/2019,32
+490,Ford,Explorer Sport Trac,6/27/2017,
+491,Chevrolet,3500,7/7/2012,14
+492,Subaru,Legacy,11/28/2015,21
+493,Chrysler,300M,8/22/2013,76
+494,Chevrolet,Suburban 2500,9/7/2016,62
+495,Chevrolet,Suburban 2500,1/18/2018,83
+496,Kia,Spectra,1/15/2015,96
+497,Chevrolet,Cavalier,7/4/2011,30
+498,Dodge,Ram Van 2500,12/31/2019,
+499,Dodge,Intrepid,5/19/2011,100
+500,GMC,Savana,12/1/2011,10
+501,Volkswagen,Passat,7/12/2011,
+502,Mercedes-Benz,CL-Class,2/13/2013,84
+503,Ford,Mustang,4/6/2016,44
+504,Mitsubishi,Chariot,6/3/2019,
+505,Ford,E-Series,3/23/2016,33
+506,Chevrolet,Corvette,12/13/2011,12
+507,Toyota,Land Cruiser,3/31/2017,66
+508,Chevrolet,Suburban 1500,10/11/2019,86
+509,Dodge,Ram 3500,2/7/2012,29
+510,Saturn,L-Series,11/29/2019,36
+511,Volvo,XC60,1/1/2013,69
+512,Isuzu,Trooper,1/5/2011,79
+513,GMC,Yukon,7/1/2014,12
+514,Pontiac,Grand Prix,4/28/2010,
+515,Honda,CR-V,2/19/2019,44
+516,Toyota,Matrix,3/9/2011,
+517,Hyundai,Tiburon,1/22/2011,90
+518,Volkswagen,Jetta,3/7/2018,75
+519,Dodge,Ram Wagon B150,12/28/2010,
+520,Infiniti,G,6/11/2019,80
+521,Isuzu,Rodeo Sport,9/11/2019,12
+522,Volkswagen,Fox,9/7/2013,83
+523,Nissan,Altima,12/3/2018,
+524,Buick,Terraza,11/14/2010,23
+525,Pontiac,Bonneville,3/11/2018,15
+526,Daewoo,Leganza,8/11/2013,30
+527,Mazda,B-Series Plus,12/28/2010,
+528,Volkswagen,GTI,10/20/2019,51
+529,GMC,Suburban 1500,6/5/2016,65
+530,GMC,Sierra 1500,3/17/2015,21
+531,GMC,Sonoma,10/25/2019,83
+532,Chevrolet,Express 2500,6/14/2017,70
+533,Isuzu,Rodeo,3/9/2016,96
+534,Cadillac,SRX,3/24/2014,29
+535,Hummer,H2,8/1/2019,48
+536,Chevrolet,Beretta,9/28/2010,57
+537,Chevrolet,G-Series 2500,6/17/2010,61
+538,Mazda,626,5/8/2014,89
+539,BMW,530,7/17/2011,45
+540,BMW,530,10/3/2013,74
+541,Pontiac,LeMans,8/13/2016,
+542,Hyundai,Azera,11/2/2013,37
+543,Mitsubishi,Pajero,7/4/2016,42
+544,GMC,Rally Wagon 1500,11/15/2011,48
+545,Mitsubishi,Pajero,5/5/2019,43
+546,Chevrolet,Corvette,1/5/2019,98
+547,Isuzu,Amigo,1/14/2014,37
+548,Mercury,Sable,1/17/2019,80
+549,Volkswagen,Eos,6/28/2017,37
+550,Audi,TT,12/8/2017,38
+551,Chevrolet,TrailBlazer,3/10/2011,32
+552,Oldsmobile,Intrigue,7/14/2015,91
+553,Dodge,Grand Caravan,10/22/2014,56
+554,Suzuki,Daewoo Magnus,3/20/2019,19
+555,Isuzu,i-290,12/30/2013,80
+556,Dodge,Caravan,12/5/2014,22
+557,Mercedes-Benz,E-Class,6/19/2010,41
+558,Cadillac,Eldorado,11/20/2015,
+559,Hyundai,XG350,11/20/2010,60
+560,Audi,TT,6/22/2014,61
+561,GMC,Envoy XL,7/19/2019,85
+562,BMW,Z4,3/7/2019,55
+563,Volkswagen,Golf,11/23/2015,20
+564,Lincoln,Mark VIII,3/26/2019,83
+565,Buick,Regal,6/9/2019,16
+566,Audi,A7,9/1/2018,
+567,Chevrolet,Cavalier,1/29/2016,52
+568,Mitsubishi,Galant,8/16/2019,45
+569,Panoz,Esperante,12/4/2015,69
+570,Pontiac,GTO,12/28/2011,69
+571,Buick,Skylark,9/17/2010,32
+572,Audi,4000CS Quattro,7/24/2019,85
+573,Hyundai,Santa Fe,1/30/2013,36
+574,Mercury,Tracer,5/1/2015,63
+575,Nissan,Maxima,12/2/2016,95
+576,Pontiac,Vibe,4/12/2016,12
+577,Dodge,Grand Caravan,3/9/2016,67
+578,Chrysler,Town & Country,6/4/2014,19
+579,Pontiac,Firefly,8/18/2015,63
+580,Jaguar,XK,8/28/2016,20
+581,Volkswagen,Jetta,12/24/2015,66
+582,Buick,LeSabre,12/28/2012,
+583,Acura,RL,11/3/2017,19
+584,Ford,Explorer,7/15/2014,83
+585,Mercedes-Benz,S-Class,5/20/2019,46
+586,Hummer,H2,2/21/2012,20
+587,Hyundai,Tiburon,2/27/2011,57
+588,Infiniti,I,6/20/2012,64
+589,GMC,Rally Wagon G3500,11/28/2014,49
+590,Ford,Aspire,8/15/2015,67
+591,Saab,9-5,4/27/2019,69
+592,Mitsubishi,Endeavor,7/13/2016,86
+593,Toyota,4Runner,1/4/2017,70
+594,Ford,Econoline E350,10/5/2016,89
+595,Chevrolet,Astro,1/13/2011,
+596,Volvo,S40,9/11/2013,18
+597,Lincoln,Town Car,12/23/2012,14
+598,Chevrolet,TrailBlazer,12/18/2017,85
+599,Lotus,Esprit,8/4/2019,48
+600,Porsche,Boxster,2/28/2019,
+601,Aston Martin,DB9,6/2/2018,23
+602,Subaru,Forester,6/11/2018,
+603,Dodge,Ram 3500,12/16/2010,12
+604,Mazda,323,7/14/2016,10
+605,Subaru,Loyale,3/2/2011,35
+606,Mercedes-Benz,SLK-Class,12/25/2012,90
+607,Lincoln,Continental Mark VII,2/11/2019,48
+608,Mitsubishi,GTO,7/31/2010,76
+609,Mercedes-Benz,SLK-Class,10/23/2016,24
+610,Porsche,Cayman,9/30/2019,56
+611,Suzuki,Aerio,8/13/2014,92
+612,Toyota,Celica,6/29/2012,58
+613,Porsche,Cayenne,11/7/2012,84
+614,Infiniti,QX56,11/3/2013,33
+615,Mazda,626,8/9/2013,
+616,BMW,X5,7/29/2012,
+617,Audi,Coupe GT,12/31/2019,44
+618,Toyota,Tacoma Xtra,8/17/2014,38
+619,Alfa Romeo,164,12/4/2016,82
+620,Jeep,Patriot,8/5/2012,52
+621,GMC,Vandura 1500,7/21/2018,18
+622,Ford,Taurus,8/1/2017,
+623,Pontiac,Trans Sport,12/31/2010,
+624,Ford,F350,3/10/2014,81
+625,BMW,7 Series,3/2/2013,47
+626,Nissan,240SX,7/31/2012,
+627,Ford,Expedition,7/7/2010,42
+628,Mercury,Cougar,10/4/2013,82
+629,Mercedes-Benz,SL-Class,12/12/2014,21
+630,Land Rover,Discovery,3/3/2012,57
+631,Volvo,850,4/19/2018,99
+632,Buick,Reatta,9/23/2011,70
+633,Porsche,928,4/17/2016,43
+634,Mazda,626,5/23/2017,50
+635,Oldsmobile,Cutlass Supreme,10/13/2013,13
+636,Mercury,Grand Marquis,9/22/2015,54
+637,GMC,Jimmy,12/9/2011,56
+638,Chevrolet,TrailBlazer,8/22/2013,
+639,Pontiac,Solstice,2/28/2012,46
+640,Aston Martin,Vantage,5/19/2010,27
+641,BMW,M3,10/8/2014,91
+642,Mercedes-Benz,G-Class,3/11/2018,33
+643,Toyota,Camry Hybrid,12/19/2011,69
+644,Jeep,Compass,2/11/2018,10
+645,Audi,A3,7/8/2017,88
+646,Hummer,H1,10/28/2013,47
+647,Mitsubishi,Lancer,9/23/2013,
+648,Hummer,H2,1/15/2014,36
+649,Mercedes-Benz,GLK-Class,10/28/2015,71
+650,Mazda,Millenia,3/1/2017,90
+651,Lincoln,Town Car,7/5/2019,14
+652,Nissan,GT-R,1/28/2019,53
+653,GMC,Safari,11/7/2014,58
+654,Acura,RDX,3/28/2015,93
+655,Ford,Econoline E350,1/6/2010,63
+656,Toyota,Previa,11/11/2019,13
+657,Dodge,Ram 2500,9/1/2011,
+658,Chevrolet,Citation,11/5/2017,42
+659,Subaru,Tribeca,2/24/2015,98
+660,Hummer,H2,6/14/2010,89
+661,Mitsubishi,Outlander,3/5/2017,24
+662,Land Rover,Freelander,8/25/2014,36
+663,Dodge,Sprinter,9/9/2013,56
+664,Volvo,XC90,8/3/2012,15
+665,Plymouth,Sundance,4/29/2011,81
+666,Ford,Flex,12/12/2016,91
+667,Isuzu,Hombre Space,7/2/2016,
+668,Pontiac,Grand Am,2/24/2019,13
+669,Audi,S8,3/20/2010,
+670,BMW,6 Series,11/29/2010,90
+671,Mazda,B-Series Plus,1/2/2013,11
+672,Mitsubishi,Eclipse,3/7/2015,42
+673,Ford,F250,10/8/2014,55
+674,GMC,Jimmy,11/16/2014,81
+675,Jeep,Wrangler,11/3/2011,26
+676,Dodge,Durango,9/6/2016,59
+677,Plymouth,Neon,4/29/2011,100
+678,Chevrolet,Venture,7/5/2015,
+679,GMC,Yukon,10/6/2013,11
+680,Chevrolet,Express 2500,7/14/2018,58
+681,Chevrolet,TrailBlazer,9/20/2013,87
+682,Chevrolet,Tracker,12/31/2010,90
+683,Lotus,Esprit,5/26/2010,10
+684,Mercedes-Benz,W201,5/16/2014,70
+685,Lincoln,MKT,8/19/2011,11
+686,Hyundai,Sonata,7/17/2010,34
+687,Pontiac,Bonneville,1/17/2015,41
+688,Lincoln,Continental,2/12/2018,67
+689,Lexus,GS,9/6/2015,55
+690,Dodge,Neon,5/16/2011,71
+691,Buick,Park Avenue,8/20/2010,
+692,Chevrolet,Silverado 1500,12/30/2010,
+693,Ford,Five Hundred,7/28/2012,46
+694,Ford,Mustang,11/22/2017,79
+695,Chrysler,300,6/2/2012,24
+696,Mitsubishi,GTO,6/15/2017,85
+697,Mercury,Cougar,10/1/2018,46
+698,Mercury,Grand Marquis,8/4/2011,
+699,Suzuki,Swift,11/30/2019,
+700,Acura,TL,8/27/2016,
+701,Volvo,240,8/30/2014,68
+702,BMW,Z4 M,1/29/2015,87
+703,Volvo,S80,8/19/2017,28
+704,Dodge,Ram Van 3500,8/25/2010,81
+705,Pontiac,LeMans,5/2/2010,98
+706,Mitsubishi,Tredia,3/2/2018,31
+707,Volkswagen,Jetta,9/12/2017,90
+708,Honda,S2000,5/17/2010,75
+709,Porsche,928,11/15/2019,99
+710,Volkswagen,Golf,3/9/2017,83
+711,Porsche,Cayenne,2/27/2017,58
+712,Infiniti,Q,8/19/2015,
+713,GMC,Sonoma Club Coupe,6/13/2011,83
+714,GMC,3500 Club Coupe,2/17/2018,81
+715,Toyota,Corolla,8/15/2019,98
+716,Toyota,Camry,7/27/2019,100
+717,Acura,Integra,6/11/2017,12
+718,Isuzu,Oasis,9/19/2011,92
+719,Suzuki,Swift,6/8/2012,29
+720,Bentley,Continental Flying Spur,4/28/2011,97
+721,Volvo,940,5/1/2010,
+722,Kia,Sorento,6/28/2015,26
+723,Honda,del Sol,4/16/2013,89
+724,Mitsubishi,Lancer Evolution,1/9/2017,59
+725,Volvo,V50,8/22/2011,44
+726,Subaru,Legacy,2/22/2019,37
+727,Hyundai,Tiburon,6/3/2016,27
+728,Mitsubishi,Lancer,7/23/2012,77
+729,Saturn,S-Series,9/14/2011,10
+730,Daewoo,Leganza,1/6/2015,29
+731,Ford,E-Series,6/24/2019,87
+732,Bentley,Continental,1/25/2017,66
+733,Chevrolet,Silverado,3/7/2011,44
+734,GMC,Canyon,8/8/2018,41
+735,Land Rover,Discovery,11/3/2018,
+736,Chevrolet,Citation,9/11/2012,89
+737,Mercedes-Benz,400E,4/25/2014,88
+738,Infiniti,G,11/25/2016,34
+739,Hyundai,Azera,7/29/2010,26
+740,Ford,Windstar,6/22/2015,54
+741,Ford,E350,8/13/2012,
+742,Mitsubishi,Outlander,2/10/2011,
+743,Volkswagen,Passat,3/4/2011,78
+744,Mazda,Millenia,6/3/2017,84
+745,Audi,A4,7/26/2017,38
+746,Mazda,MX-5,9/14/2019,28
+747,Plymouth,Colt,8/14/2014,12
+748,Buick,Skyhawk,12/30/2016,96
+749,Fiat,500,5/5/2012,54
+750,Mazda,CX-9,10/5/2012,65
+751,Toyota,Land Cruiser,10/19/2010,57
+752,Volvo,V70,1/12/2011,76
+753,Pontiac,Bonneville,8/16/2014,52
+754,Lincoln,Navigator,4/17/2017,
+755,Mazda,RX-8,10/3/2019,40
+756,Honda,Accord,7/2/2015,30
+757,Mercedes-Benz,SLK-Class,5/20/2014,99
+758,Pontiac,G8,5/31/2019,11
+759,Aston Martin,V8 Vantage,3/15/2019,22
+760,GMC,Sierra 2500,12/20/2012,95
+761,Acura,RDX,3/24/2017,56
+762,Ford,Escape,10/18/2012,37
+763,Honda,Fit,7/7/2015,44
+764,Volkswagen,New Beetle,6/22/2015,38
+765,Mercury,Mountaineer,11/9/2012,49
+766,Nissan,240SX,9/14/2015,75
+767,Honda,Insight,1/6/2016,34
+768,Toyota,Tundra,4/17/2013,90
+769,Ford,Escort,8/3/2014,96
+770,Dodge,Durango,7/19/2014,23
+771,Lincoln,Mark LT,6/18/2017,62
+772,Subaru,Outback,4/15/2012,27
+773,Mitsubishi,Montero,2/13/2011,60
+774,Pontiac,Bonneville,4/6/2018,85
+775,Chevrolet,Suburban 1500,6/28/2015,79
+776,Plymouth,Colt,7/30/2016,24
+777,Volkswagen,rio,1/9/2018,33
+778,Pontiac,6000,5/29/2018,54
+779,Lamborghini,Gallardo,8/25/2016,70
+780,Dodge,Viper,10/25/2010,49
+781,Mitsubishi,Starion,7/23/2018,70
+782,BMW,Z4,11/23/2016,43
+783,Ford,F-Series,1/29/2016,
+784,GMC,Suburban 2500,1/26/2018,80
+785,Kia,Rio,2/24/2016,30
+786,Toyota,Yaris,10/31/2012,14
+787,Mazda,Familia,4/24/2013,92
+788,Mercury,Cougar,10/19/2011,55
+789,GMC,Vandura 2500,5/14/2013,69
+790,BMW,M5,3/26/2018,52
+791,Chevrolet,Astro,3/9/2010,81
+792,Subaru,Legacy,7/12/2013,57
+793,Mazda,B-Series,9/8/2016,
+794,Aston Martin,Vantage,10/4/2013,74
+795,Nissan,Quest,11/30/2014,63
+796,Volvo,XC70,9/24/2014,40
+797,Mercedes-Benz,S-Class,8/22/2010,50
+798,Mazda,Miata MX-5,4/20/2018,
+799,GMC,Sonoma,11/20/2012,75
+800,Cadillac,Escalade ESV,8/18/2017,29
+801,Plymouth,Grand Voyager,12/24/2017,
+802,Nissan,Quest,2/8/2010,68
+803,Plymouth,Grand Voyager,10/8/2014,45
+804,Mercedes-Benz,C-Class,10/3/2015,16
+805,Lexus,LFA,6/18/2010,85
+806,GMC,Acadia,10/15/2013,35
+807,Nissan,Pathfinder,12/2/2011,69
+808,Ford,Contour,4/23/2018,95
+809,Dodge,Ram 2500,5/28/2010,40
+810,Toyota,Solara,1/18/2015,
+811,Chrysler,Imperial,9/21/2011,17
+812,GMC,Jimmy,1/25/2013,96
+813,Chevrolet,Avalanche,6/10/2015,24
+814,Audi,Quattro,10/12/2010,62
+815,Saturn,S-Series,6/10/2017,25
+816,Chevrolet,Corvette,9/17/2015,99
+817,Toyota,Supra,4/1/2010,41
+818,Chevrolet,G-Series G20,12/8/2016,55
+819,Infiniti,G,10/2/2013,54
+820,Lexus,SC,10/14/2019,
+821,Lotus,Esprit,10/29/2014,46
+822,Nissan,Altima,7/6/2018,99
+823,Toyota,Matrix,9/15/2019,82
+824,Plymouth,Neon,12/23/2016,18
+825,Lexus,SC,1/13/2012,44
+826,Audi,S4,11/20/2012,
+827,Toyota,RAV4,8/28/2014,63
+828,Chrysler,Sebring,9/26/2017,44
+829,Chevrolet,S10,7/16/2014,57
+830,Mazda,RX-8,1/2/2012,28
+831,Ford,Bronco II,4/30/2013,52
+832,Volkswagen,Passat,12/19/2016,38
+833,Mazda,MX-6,7/6/2019,95
+834,Acura,RL,8/8/2017,11
+835,Mercedes-Benz,CLK-Class,10/18/2011,47
+836,Dodge,Avenger,9/19/2012,73
+837,Oldsmobile,88,12/5/2018,13
+838,BMW,M6,10/9/2013,91
+839,MINI,Cooper,10/15/2014,46
+840,GMC,Savana,9/19/2018,85
+841,Chevrolet,Astro,10/25/2018,93
+842,GMC,2500 Club Coupe,5/1/2018,97
+843,Chrysler,Sebring,11/9/2011,15
+844,Toyota,Corolla,12/19/2013,48
+845,Mazda,CX-9,1/8/2012,14
+846,Toyota,Prius Plug-in Hybrid,11/27/2014,73
+847,Mazda,MX-5,5/25/2015,22
+848,BMW,3 Series,12/12/2010,11
+849,Mercury,Villager,6/14/2019,63
+850,Audi,A6,5/24/2012,22
+851,Chevrolet,Venture,4/20/2017,
+852,Toyota,Sequoia,4/6/2018,48
+853,Kia,Rio,1/21/2014,71
+854,Maybach,57,3/8/2018,21
+855,Hyundai,XG350,7/29/2017,34
+856,Ford,Mustang,1/26/2015,13
+857,BMW,5 Series,7/31/2017,69
+858,Chevrolet,Silverado 3500,6/13/2012,45
+859,Land Rover,Freelander,12/11/2015,40
+860,Infiniti,M,6/27/2012,94
+861,Land Rover,Range Rover Sport,10/19/2014,49
+862,Cadillac,Fleetwood,7/9/2013,79
+863,BMW,5 Series,11/12/2017,79
+864,Bentley,Azure,8/8/2016,89
+865,Porsche,968,2/26/2016,43
+866,Audi,Coupe GT,6/5/2014,98
+867,Maserati,Quattroporte,1/19/2018,32
+868,Ford,Explorer Sport Trac,11/17/2018,
+869,Mitsubishi,Diamante,7/3/2015,68
+870,GMC,Sierra 1500,9/19/2010,75
+871,GMC,Safari,2/26/2016,72
+872,Isuzu,Ascender,9/12/2015,85
+873,Mitsubishi,Montero,11/5/2010,70
+874,Chrysler,PT Cruiser,3/11/2012,20
+875,Saab,9-2X,7/11/2010,26
+876,Ford,F250,9/14/2011,26
+877,Pontiac,Bonneville,3/27/2013,57
+878,Pontiac,Bonneville,12/13/2016,
+879,Land Rover,Range Rover,8/6/2012,63
+880,Mercedes-Benz,SL-Class,11/21/2014,66
+881,Mitsubishi,Endeavor,11/18/2018,17
+882,BMW,545,4/8/2013,65
+883,Hyundai,Veracruz,7/1/2014,91
+884,MINI,Cooper Clubman,11/2/2019,96
+885,Kia,Sportage,9/27/2011,82
+886,Dodge,Ram 2500,2/20/2013,74
+887,Pontiac,Grand Am,1/11/2014,93
+888,Pontiac,Sunfire,9/13/2015,92
+889,Lexus,ES,11/2/2019,62
+890,Jeep,Wrangler,9/4/2014,73
+891,Saab,900,3/8/2011,94
+892,Land Rover,Defender 90,7/14/2019,34
+893,Hyundai,Santa Fe,9/23/2014,92
+894,Audi,TT,2/6/2013,56
+895,Volvo,V50,11/11/2010,26
+896,Buick,Century,1/30/2010,56
+897,Subaru,Forester,2/21/2012,21
+898,Mitsubishi,Pajero,10/13/2013,100
+899,Hyundai,Santa Fe,5/26/2019,93
+900,Mitsubishi,Lancer,8/8/2015,26
+901,BMW,5 Series,6/20/2013,45
+902,Geo,Prizm,7/1/2012,33
+903,GMC,Jimmy,6/4/2010,93
+904,Ford,Mustang,9/4/2019,25
+905,Mercury,Mystique,12/2/2014,77
+906,Subaru,Impreza,3/5/2013,57
+907,Mazda,Miata MX-5,10/4/2012,61
+908,Hyundai,Sonata,7/9/2012,22
+909,Jaguar,XK Series,8/14/2015,95
+910,Lincoln,Mark VIII,2/21/2018,81
+911,Nissan,Maxima,7/28/2018,79
+912,GMC,Savana 1500,7/4/2018,97
+913,Land Rover,Discovery,12/18/2010,100
+914,GMC,Envoy,7/11/2016,
+915,Jeep,Grand Cherokee,10/9/2017,28
+916,Mercury,Capri,10/16/2014,62
+917,Mercedes-Benz,S-Class,3/10/2012,71
+918,Mercury,Mountaineer,4/28/2010,62
+919,Mercury,Grand Marquis,9/15/2011,54
+920,Toyota,Highlander,2/4/2014,
+921,Mazda,CX-9,12/14/2017,96
+922,Ford,Explorer,7/22/2013,34
+923,Chevrolet,Suburban,4/11/2018,25
+924,Chevrolet,Tracker,5/20/2017,29
+925,Volvo,S70,3/7/2013,64
+926,Mercury,Cougar,4/26/2016,33
+927,Subaru,XT,11/25/2015,
+928,Dodge,Ram 1500 Club,8/10/2018,
+929,Maserati,Spyder,1/8/2014,60
+930,GMC,Canyon,11/18/2013,96
+931,BMW,M3,12/28/2014,30
+932,Honda,S2000,10/26/2016,77
+933,Hyundai,Tiburon,3/26/2017,
+934,Suzuki,Grand Vitara,1/26/2014,74
+935,Subaru,Impreza,6/10/2010,13
+936,Ford,Th!nk,12/12/2014,54
+937,Ford,Econoline E250,6/7/2011,77
+938,Chevrolet,Avalanche,4/18/2011,45
+939,GMC,Savana 2500,9/24/2015,96
+940,Pontiac,GTO,4/7/2012,20
+941,Honda,Prelude,3/21/2012,46
+942,Ford,Edge,11/1/2013,33
+943,Subaru,Outback,11/22/2013,81
+944,Toyota,Tacoma,12/28/2018,35
+945,Dodge,Caravan,1/22/2015,19
+946,Nissan,Sentra,9/16/2018,43
+947,Suzuki,Daewoo Lacetti,1/5/2010,66
+948,Subaru,SVX,8/31/2012,95
+949,Ford,Explorer,5/23/2016,92
+950,Mercedes-Benz,SLK-Class,11/24/2013,74
+951,Lexus,LS,9/21/2015,88
+952,Bentley,Continental GTC,2/15/2012,62
+953,Dodge,Aries,6/6/2017,16
+954,Toyota,4Runner,7/31/2014,26
+955,Land Rover,Defender 90,12/16/2016,97
+956,Pontiac,Grand Prix,12/31/2016,79
+957,GMC,Yukon,7/7/2013,100
+958,Cadillac,STS-V,1/8/2010,43
+959,Mazda,RX-7,8/14/2010,24
+960,Volkswagen,Jetta,3/7/2010,17
+961,Maserati,Quattroporte,2/24/2015,27
+962,Volkswagen,Eurovan,2/1/2013,79
+963,Chevrolet,Express 2500,1/14/2014,100
+964,Dodge,Grand Caravan,1/3/2018,92
+965,Mitsubishi,Lancer,6/12/2015,20
+966,Buick,LeSabre,2/28/2013,
+967,Chevrolet,Camaro,2/4/2015,30
+968,Lexus,IS-F,11/15/2014,44
+969,Toyota,Highlander,3/6/2019,18
+970,Infiniti,Q,10/24/2017,20
+971,Honda,Pilot,7/1/2017,10
+972,Lexus,SC,2/12/2015,36
+973,Mazda,Tribute,1/1/2018,100
+974,Mazda,B-Series Plus,1/22/2012,34
+975,Lexus,LX,1/27/2010,58
+976,Acura,SLX,11/29/2010,50
+977,Porsche,928,9/25/2018,99
+978,Kia,Borrego,12/16/2013,66
+979,Chrysler,PT Cruiser,9/7/2010,62
+980,Mitsubishi,Chariot,5/7/2018,98
+981,Subaru,Impreza,3/6/2017,99
+982,Nissan,Sentra,11/23/2012,53
+983,Ford,Expedition,5/25/2013,61
+984,Land Rover,Discovery Series II,2/17/2014,66
+985,Volkswagen,Passat,4/2/2015,22
+986,Mazda,Miata MX-5,4/30/2014,39
+987,Aston Martin,DB9,6/18/2014,39
+988,Mercedes-Benz,S-Class,6/19/2017,33
+989,Nissan,200SX,1/2/2013,31
+990,Honda,S2000,1/26/2016,77
+991,Ford,Freestar,1/27/2016,86
+992,Oldsmobile,98,6/29/2013,98
+993,Dodge,Dakota,6/16/2013,77
+994,Pontiac,Montana,8/6/2019,
+995,Mitsubishi,Mighty Max,7/7/2019,64
+996,BMW,6 Series,6/16/2019,33
+997,Volkswagen,GLI,1/18/2019,38
+998,Porsche,911,5/9/2013,39
+999,Toyota,Tercel,10/16/2019,28
+1000,Toyota,4Runner,1/17/2014,81
